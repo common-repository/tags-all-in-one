@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tags all in one\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-16 13:49+0100\n"
+"PO-Revision-Date: 2015-12-16 13:50+0100\n"
+"Last-Translator: Marcin Gierada <m.gierada@teastudio.pl>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/plugin-info.php:17
+msgid "Version"
+msgstr "Wersja"
+
+#: includes/plugin-info.php:20
+msgid "Donate, if you like this plugin"
+msgstr "Wesprzyj, jeśli spodobała Ci się ta wtyczka"
+
+#: includes/plugin-info.php:22
+msgid "Thanks for all donations, no matter the size."
+msgstr "Dziękuje za wszystkie dotacje, bez względu na ich wielkość."
+
+#: includes/plugin-info.php:34
+msgid "Need support?"
+msgstr "Potrzebujesz pomocy?"
+
+#: includes/plugin-info.php:38
+msgid "If you are having problems with this plugin, please contact by"
+msgstr "Jeśli masz problemy z działaniem tej wtyczki, napisz"
+
+#: includes/plugin-info.php:39
+msgid "For more information about this plugin, please visit"
+msgstr "Więcej informacji o wtyczce znajdziesz na"
+
+#: includes/plugin-info.php:39
+msgid "plugin page"
+msgstr "stronie domowej"
+
+#: includes/plugin-info.php:44
+msgid "Need custom modification, plugin or theme?"
+msgstr "Potrzebujesz indywidualnych zmian, wtyczki lub szablonu?"
+
+#: includes/plugin-info.php:48
+msgid ""
+"If you like this plugin, but need something a bit more custom or completely "
+"new, you can hire me to work for you! Email me at <a href=\"mailto:m."
+"gierada@teastudio.pl\" title=\"Hire me\">m.gierada@teastudio.pl</a> for more "
+"information!"
+msgstr ""
+"Jeśli spodobała Ci się ta wtyczka, ale potrzebujesz czegoś dostosowanego do "
+"Twoich potrzeb lub szukasz czegoś zupełnie innego, możesz mnie zatrudnić do "
+"pracy dla Ciebie! Napisz do mnie <a href=\"mailto:m.gierada@teastudio.pl\" "
+"title=\"Zatrudnij mnie\">m.gierada@teastudio.pl</a> po więcej informacji!"
+
+#: includes/utils.class.php:43
+msgid "Name"
+msgstr "Nazwie"
+
+#: includes/utils.class.php:44
+msgid "Count"
+msgstr "Ilości"
+
+#: includes/utils.class.php:49
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#: includes/utils.class.php:50
+msgid "Descending"
+msgstr "Malejąco"
+
+#: includes/utils.class.php:51
+msgid "Random"
+msgstr "Losowa kolejność"
+
+#: includes/utils.class.php:71
+msgid "Hint"
+msgstr "Wskazówka"
+
+#: shortcode-generator.php:19
+msgid "Error detected.\\nPlease correct your form and try again."
+msgstr "Znaleziono błędy.\\nProszę poprawić formularz i spróbować ponownie."
+
+#: shortcode-generator.php:67
+msgid "Display options"
+msgstr "Opcje wyświetlania"
+
+#: shortcode-generator.php:73 tags-widget.class.php:63
+msgid "Limit"
+msgstr "Wszystkich tagów"
+
+#: shortcode-generator.php:79 tags-widget.class.php:68
+msgid "Smallest font size"
+msgstr "Najmniejszy rozmiar czcionki"
+
+#: shortcode-generator.php:85 tags-widget.class.php:73
+msgid "Largest font size"
+msgstr "Największy rozmiar czcionki"
+
+#: shortcode-generator.php:91 tags-widget.class.php:78
+msgid "Unit of font size"
+msgstr "Jednostka"
+
+#: shortcode-generator.php:104 tags-widget.class.php:90
+msgid "Separator"
+msgstr "Separator"
+
+#: shortcode-generator.php:110 tags-widget.class.php:95
+msgid "Order by"
+msgstr "Sortuj po"
+
+#: shortcode-generator.php:123 tags-widget.class.php:107
+msgid "Order"
+msgstr "Kolejność"
+
+#: shortcode-generator.php:138
+msgid "Select what you want to display"
+msgstr "Wybierz co chcesz wyświetlić"
+
+#: shortcode-generator.php:140 tags-widget.class.php:119
+msgid "Tags from"
+msgstr "Tagi z"
+
+#: shortcode-generator.php:149
+msgid "or"
+msgstr "lub"
+
+#: shortcode-generator.php:150
+msgid "tags from this content"
+msgstr "tagi z tego wpisu"
+
+#: shortcode-generator.php:157
+msgid "Insert Shortcode"
+msgstr "Wstaw krótki kod"
+
+#: tags-widget.class.php:21
+msgid "Tags all in one"
+msgstr "Tags all in one"
+
+#: tags-widget.class.php:24
+msgid "Display tags for checked post types"
+msgstr "Wyświetla tagi dla wybranych typów postów"
+
+#: tags-widget.class.php:59
+msgid "Title"
+msgstr "Tytuł"
+
+#, fuzzy
+#~ msgid "order"
+#~ msgstr "Kolejność"
+
+# @ tags-all-in-one
+#~ msgid "Taxonomy"
+#~ msgstr "Typy wpisów"
